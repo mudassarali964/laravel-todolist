@@ -1,0 +1,25 @@
+{
+    "name": "mudassarali964/laravel-todolist",
+    "description": "Todo List Project",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mudassarali964\\Todolist\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mudasar Ali",
+            "email": "mudassarali964@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mudassarali964\\Todolist\\ServiceProvider"
+            ]
+        }
+    }
+}
