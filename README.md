@@ -1,6 +1,6 @@
 ## Laravel TodoList
 
-![tasks](https://github.com/mudassarali964/laravel-todolist/assets/55048197/075d02be-7450-448d-8d19-a383993ede9a)
+![tasks](https://github.com/mudassarali964/laravel-todolist/assets/55048197/4dc42b34-2085-49cc-a405-dc06013785a2)
 
 ## Installation
 
